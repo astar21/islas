@@ -1,15 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-<link rel ="stylesheet" href="style.css">
-<meta charset="UTF-8">
-<title>LAS BALEARES</title>
-</head>
-<body >
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
 
-<div>
-  <h2 id="">LAS BALEARES</h2>
-</div>
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -61,35 +52,41 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1">
-<a class="svglink" xlink:href="https://ca.wikipedia.org/wiki/Mallorca" target="_top">
     <path
-       style="fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 273.24626,298.78841 c 14.34718,-10.85645 31.15458,-25.43459 36.23999,-27.05502 23.3532,-22.87101 46.05887,-36.3154 75.38187,-43.65566 16.68452,3.7544 26.45726,-15.95488 34.34519,-8.08122 l -24.74874,11.11167 c -1.74152,4.52729 -2.68087,8.92087 3.53553,12.12184 l 16.16244,-9.59645 c -5.13309,9.44682 -1.66239,8.13891 -2.0203,11.61675 l -9.59645,1.51523 c -5.61437,10.04589 3.17805,17.21042 17.67767,23.23351 l 15.15229,-6.06092 3.03045,-8.08122 c 7.88475,7.24512 23.855,3.17052 19.69798,27.27412 -7.01612,2.39648 -12.49055,8.26175 -14.14214,22.72843 -15.67051,-0.1815 -14.64379,16.33422 -17.67767,28.78935 l -23.73858,19.69798 c -8.80868,14.64961 -18.13047,14.93232 -28.28427,-8.08122 -18.57592,-0.0263 -42.28082,7.03035 -33.84011,-30.30458 -8.128,-4.41466 -15.41959,-17.19337 -24.74874,-9.59645 -11.63639,0.72921 -9.51267,6.61846 -11.11168,11.11168 l -3.03046,9.09137 -12.6269,-8.5863 c 1.84369,-5.7335 3.53991,-11.35974 -9.09137,-6.56599 z"
        id="Mallorca"
-		fill="#ff0000";
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccccccc" />
-<text
+    <path
+       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 520.22856,226.05742 c 19.53855,-3.66862 38.33389,1.29964 37.37565,3.53554 l 39.39594,24.74873 6.06092,-20.70812 c -10.10258,-7.64328 -9.50425,-17.42674 -13.63706,-26.26397 l -3.53553,7.57614 c -5.66529,-8.5863 0.99297,-9.34709 -20.20305,-25.75889 l -5.55584,0.50508 2.0203,8.5863 -44.95179,0.50507 -4.04061,11.61676 9.09138,4.54568 z"
+       id="Menorca"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc" />
+    <path
+       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 100.0051,425.56255 c -5.050761,-7.57614 -11.616752,-3.03046 -5.050761,-8.5863 6.565991,-5.55584 -4.545686,5.55584 8.081221,-5.05076 12.62691,-10.6066 1.01015,-0.50508 17.17259,-8.5863 16.16244,-8.08122 7.57615,-10.6066 19.69798,-6.56599 12.12183,4.04061 11.11167,-3.53553 13.13198,7.57615 2.02031,11.11167 11.70877,2.39206 2.02031,11.11167 -10.10153,9.09138 -34.85027,27.27412 -34.85027,27.27412 l -4.04061,13.63706 -17.172591,-7.07107 -15.152288,-2.0203 0,-20.70813 z"
+       id="Ibiza"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssssscccccc" />
+    <path
+       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 122.73353,470.51434 c 12.62691,17.17259 13.63706,16.16244 13.63706,16.16244 l 10.60661,-4.04061 0,15.15229 -21.21321,-10.6066 -12.12183,12.12183 -1.51523,-23.23351 12.62691,-5.55584 z"
+       id="Formaentera"
+       inkscape:connector-curvature="0" />
+    <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="302.54068"
        y="197.26807"
        id="NMallorca"
-       fill="#000000"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3450"
          x="302.54068"
-         y="197.26807"></tspan>Mallorca</text></a>
-           <a class="svglink" xlink:href="https://ca.wikipedia.org/wiki/Menorca" target="_top">
-    <path
-       style="fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 520.22856,226.05742 c 19.53855,-3.66862 38.33389,1.29964 37.37565,3.53554 l 39.39594,24.74873 6.06092,-20.70812 c -10.10258,-7.64328 -9.50425,-17.42674 -13.63706,-26.26397 l -3.53553,7.57614 c -5.66529,-8.5863 0.99297,-9.34709 -20.20305,-25.75889 l -5.55584,0.50508 2.0203,8.5863 -44.95179,0.50507 -4.04061,11.61676 9.09138,4.54568 z"
-       id="Menorca"
-	   fill="#ff0000";
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccc" />
-   <text
+         y="197.26807">Mallorca</tspan></text>
+    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="520.73364"
@@ -99,47 +96,7 @@
          sodipodi:role="line"
          id="tspan3454"
          x="520.73364"
-         y="164.43813">Menorca</tspan></text></a>
-         <a class="svglink" xlink:href="https://ca.wikipedia.org/wiki/Illa_d%27Eivissa" target="_top">
-    <path
-       style="fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 100.0051,425.56255 c -5.050761,-7.57614 -11.616752,-3.03046 -5.050761,-8.5863 6.565991,-5.55584 -4.545686,5.55584 8.081221,-5.05076 12.62691,-10.6066 1.01015,-0.50508 17.17259,-8.5863 16.16244,-8.08122 7.57615,-10.6066 19.69798,-6.56599 12.12183,4.04061 11.11167,-3.53553 13.13198,7.57615 2.02031,11.11167 11.70877,2.39206 2.02031,11.11167 -10.10153,9.09138 -34.85027,27.27412 -34.85027,27.27412 l -4.04061,13.63706 -17.172591,-7.07107 -15.152288,-2.0203 0,-20.70813 z"
-       id="Ibiza"
-		fill="#ff0000";
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="csssssscccccc" />
-       <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="118.69292"
-       y="378.08539"
-       id="NIbiza"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3462"
-         x="118.69292"
-         y="378.08539">Ibiza</tspan></text></a>
-
-
-         <a class="svglink" xlink:href="https://ca.wikipedia.org/wiki/Formentera" target="_top" >
-    <path
-       style="fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 122.73353,470.51434 c 12.62691,17.17259 13.63706,16.16244 13.63706,16.16244 l 10.60661,-4.04061 0,15.15229 -21.21321,-10.6066 -12.12183,12.12183 -1.51523,-23.23351 12.62691,-5.55584 z"
-       id="Formentera"
-	   fill="#ff0000";
-       inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="144.45181"
-       y="461.92804"
-       id="NFormentera"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3466"
-         x="144.45181"
-         y="461.92804">Formentera</tspan></text>
-    
+         y="164.43813">Menorca</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -151,11 +108,27 @@
          id="tspan3458"
          x="356.58386"
          y="194.74269" /></text>
-    
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="118.69292"
+       y="378.08539"
+       id="NIbiza"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3462"
+         x="118.69292"
+         y="378.08539">Ibiza</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="144.45181"
+       y="461.92804"
+       id="NFormentera"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3466"
+         x="144.45181"
+         y="461.92804">Formentera</tspan></text>
   </g>
 </svg>
-
-
-
-</body>
-</html>
